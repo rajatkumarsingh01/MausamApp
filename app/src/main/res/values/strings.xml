@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MausamApp</string>
+    <string name="monday">Monday</string>
+    <string name="_0_00_m_s">0.00 m/s</string>
+</resources>
